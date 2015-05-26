@@ -12,7 +12,7 @@ Roshi is [super cool](https://developers.soundcloud.com/blog/roshi-a-crdt-system
 
 
 # How To Use This Image
-Roshi uses Redis as its persistence layer. You will need to have a Redis instances running somewhere for Roshi to connect to. A production installation of Roshi should have at least 3 independent Redis clusters running in different failure domains. For demo purposes you can just run Roshi on a single Redis instance with zero fault tolerance. See [the](https://github.com/soundcloud/roshi) [various](https://github.com/soundcloud/roshi/tree/master/roshi-server) [readmes](https://github.com/soundcloud/roshi/tree/master/farm) for more details.
+Roshi uses Redis as its persistence layer. You will need to have a Redis instance running somewhere for Roshi to connect to. A production installation of Roshi should have at least 3 independent Redis clusters running in different failure domains. For demo purposes you can just run Roshi on a single Redis instance with zero fault tolerance. See [the](https://github.com/soundcloud/roshi) [various](https://github.com/soundcloud/roshi/tree/master/roshi-server) [readme's](https://github.com/soundcloud/roshi/tree/master/farm) for more details.
 
 ![Roshi architecture](https://camo.githubusercontent.com/a58ab4eb770cc1429d291d77ced4cf5f88d9154f/687474703a2f2f692e696d6775722e636f6d2f5345654b7175572e706e67)
 
