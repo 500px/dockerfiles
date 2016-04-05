@@ -2,7 +2,7 @@
 A minimal Docker image to run [Mailcatcher](https://mailcatcher.me/). Based on Alpine Linux.
 
 # `Dockerfile` links
-* [latest](https://github.com/pwyliu/dockerfiles/blob/master/mailcatcher/Dockerfile)
+* [`latest`](https://github.com/pwyliu/dockerfiles/blob/24e37bbd5f73093f3f89db25008d144455b2d190/mailcatcher/Dockerfile), [`0.6`](https://github.com/pwyliu/dockerfiles/blob/24e37bbd5f73093f3f89db25008d144455b2d190/mailcatcher/Dockerfile), [`0.6.4`](https://github.com/pwyliu/dockerfiles/blob/24e37bbd5f73093f3f89db25008d144455b2d190/mailcatcher/Dockerfile)
 
 # How To Use This Image
 The default command this image runs is: 
